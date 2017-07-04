@@ -5,13 +5,13 @@ This was a group project in which we were given a boardgame called "The Hare and
 
 # Hare and Tortoise Board Game
 
-• 2 – 6 players
+- 2 – 6 players
 
-• 15 hare cards
+- 15 hare cards
 
-• 18 lettuce cards
+- 18 lettuce cards
 
-• Lots of carrot cards
+- Lots of carrot cards
 
 # This is a race game
 
